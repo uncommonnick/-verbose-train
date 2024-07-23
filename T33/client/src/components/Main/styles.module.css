@@ -1,0 +1,22 @@
+.main_container .px-3 {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.main_container .text-start {
+  margin-left: 0;
+}
+
+.navbar-collapse {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-nav {
+  text-align: center;
+}
+
+.navbar-toggler {
+  z-index: 1050;
+}
+
