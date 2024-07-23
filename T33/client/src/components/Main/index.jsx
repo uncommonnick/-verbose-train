@@ -106,7 +106,7 @@ const Main = () => {
                     <span className="badge bg-secondary me-2">Warszawa</span> {/* Lokalizacja */}
                     <span className="badge bg-secondary me-2">Kontrakt B2B</span> {/* Typ kontraktu*/}
                     <span className="badge bg-secondary me-2">PLN 50-55k</span>  {/* Wynagrodzenie */}
-                    <span className="badge bg-secondary">30 min temu</span>  {/* Kiedy oferta została dodana */}
+                    <span className="badge bg-secondary">31 min temu</span>  {/* Kiedy oferta została dodana */}
                   </div>
                   <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque euismod magna vitae libero tincidunt, vitae suscipit elit malesuada.</p>
                 </div>
